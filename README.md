@@ -9,7 +9,7 @@ This project develops a quantitative framework to model the cash flows and price
 * **Scenario Stress Testing:** Analyzed portfolio Present Value (PV) sensitivity under ±25 and ±50 basis point interest rate shocks.
 
 ## The Quantitative Challenge: Negative Convexity
-Unlike standard fixed-income instruments, MBS investors are effectively **Short Volatility**. As rates drop, prepayments spike (reinvestment risk), and as rates rise, prepayments dry up (extension risk).
+Unlike standard fixed-income instruments, MBS investors are effectively **Short Volatility**. As rates drop, prepayments spike (prepayment risk), and as rates rise, prepayments dry up (extension risk).
 
 ## Mathematical Foundation: The Geometry of Risk
 
